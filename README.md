@@ -2,7 +2,7 @@
 
 ### Hi there, I'm Igor 👋
 
-- 🔭 I'm currently learning NODE.js
+- 🔭 I'm currently learning ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 - 🌱 And I also learn new technologies
 - 📫 How to reach me: **bulyzhenkov.igor@gmail.com**
 - ⚡ Fun fact: **I love what I do - code and help people learn coding**
