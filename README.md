@@ -2,9 +2,8 @@
 
 ### Hi there, I'm Igor 👋
 
-- 🔭 I’m currently working on **a lot of different stuff**
-- 🌱 I’m currently learning **everything I can get my hands on**
-- 🤔 I’m looking for help with **finding more time in a single day**
+- 🔭 I'm currently learning NODE.js
+- 🌱 And I also learn new technologies
 - 📫 How to reach me: **bulyzhenkov.igor@gmail.com**
 - ⚡ Fun fact: **I love what I do - code and help people learn coding**
 
