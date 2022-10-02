@@ -1,5 +1,5 @@
 <h1>This «thing» is under construction... 👨‍🎨</h1>
-[![Netlify Status](https://api.netlify.com/api/v1/badges/734b86ff-ce92-40b3-8b04-7f96db26f6bb/deploy-status)](https://app.netlify.com/sites/resonant-malabi-2c3635/deploys)
+
 ### Hi there, I'm Igor 👋
 
 - 🔭 I'm currently learning ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
