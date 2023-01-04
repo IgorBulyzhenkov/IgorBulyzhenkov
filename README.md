@@ -32,5 +32,4 @@
 
 <img alt="Visual Studio Code" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
-<img alt="Visual Studio Code" width="32px" src="[https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white]" />
- ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+<img alt="NodeJs" width="32px" src="https://www.pngfind.com/pngs/m/683-6833893_node-js-logo-png-transparent-png." />
