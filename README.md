@@ -2,7 +2,14 @@
 
 ### Hi there, I'm Igor 👋
 
-- 🔭 I'm currently learning ![Yii2](https://yiisoft.github.io/docs/images/yii_logo.svg)
+- 🔭 I'm currently learning 
+<p align="center">
+    <a href="https://github.com/yiisoft" target="_blank">
+        <img src="https://yiisoft.github.io/docs/images/yii_logo.svg" height="100px">
+    </a>
+    <h1 align="center">Yiisoft</h1>
+    <br>
+</p>
 - 🌱 And I also learn new technologies
 - 📫 How to reach me: **bulyzhenkov.igor@gmail.com**
 - ⚡ Fun fact: **I love what I do - code and help people learn coding**
