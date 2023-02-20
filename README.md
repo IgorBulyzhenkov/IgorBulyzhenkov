@@ -2,12 +2,10 @@
 
 ### Hi there, I'm Igor 👋
 
-<p align="center">
+<p align="left">
     <a href="https://github.com/yiisoft" target="_blank">
       - 🔭 I'm currently learning <img src="https://yiisoft.github.io/docs/images/yii_logo.svg" height="20px">
     </a>
-    <h1 align="center">Yiisoft</h1>
-    <br>
 </p>
 - 🌱 And I also learn new technologies
 - 📫 How to reach me: **bulyzhenkov.igor@gmail.com**
