@@ -2,7 +2,7 @@
 
 ### Hi there, I'm Igor 👋
 
-- 🔭 I'm currently learning ![TypeScript](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square)
+- 🔭 I'm currently learning ![Yii2](https://yiisoft.github.io/docs/images/yii_logo.svg)
 - 🌱 And I also learn new technologies
 - 📫 How to reach me: **bulyzhenkov.igor@gmail.com**
 - ⚡ Fun fact: **I love what I do - code and help people learn coding**
