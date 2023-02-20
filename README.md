@@ -2,10 +2,9 @@
 
 ### Hi there, I'm Igor 👋
 
-- 🔭 I'm currently learning 
 <p align="center">
     <a href="https://github.com/yiisoft" target="_blank">
-        <img src="https://yiisoft.github.io/docs/images/yii_logo.svg" height="100px">
+      - 🔭 I'm currently learning <img src="https://yiisoft.github.io/docs/images/yii_logo.svg" height="20px">
     </a>
     <h1 align="center">Yiisoft</h1>
     <br>
