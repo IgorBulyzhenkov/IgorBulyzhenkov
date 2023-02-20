@@ -4,7 +4,7 @@
 
 <p align="left">
     <a href="https://github.com/yiisoft" target="_blank">
-      - 🔭 I'm currently learning <img src="https://yiisoft.github.io/docs/images/yii_logo.svg" height="20px">
+      - 🔭 I'm currently learning <img src="https://www.yiiframework.com/image/logo.svg" height="20px">
     </a>
 </p>
 - 🌱 And I also learn new technologies
