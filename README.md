@@ -3,9 +3,8 @@
 ### Hi there, I'm Igor 👋
 
 <p align="left">
-    <a href="https://github.com/yiisoft" target="_blank">
-      - 🔭 I'm currently learning <img src="https://www.yiiframework.com/image/logo.svg" height="20px">
-    </a>
+      - 🔭 I'm currently learning <img src="https://laravel.com/img/logomark.min.svg" height="20px"><img src="	https://laravel.com/img/logotype.min.svg
+" height="20px">
 </p>
 - 🌱 And I also learn new technologies
 - 📫 How to reach me: **bulyzhenkov.igor@gmail.com**
