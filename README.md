@@ -3,7 +3,7 @@
 ### Hi there, I'm Igor 👋
 
 <p align="left">
-      - 🔭 I'm currently learning <a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="50px"></a>
+      - 🔭 I'm currently learning <a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="125px"></a>
 </p>
 - 🌱 And I also learn new technologies
 - 📫 How to reach me: **bulyzhenkov.igor@gmail.com**
