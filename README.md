@@ -3,9 +3,8 @@
 ### Hi there, I'm Igor 👋
 
 <p align="left">
-      - 🔭 I'm currently learning <img src="https://laravel.com/img/logomark.min.svg" height="20px"> <img src="https://laravel.com/img/logotype.min.svg" height="20px">
+      - 🔭 I'm currently learning <a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" height="50px"></a>
 </p>
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" height="20px"></a></p>
 - 🌱 And I also learn new technologies
 - 📫 How to reach me: **bulyzhenkov.igor@gmail.com**
 - ⚡ Fun fact: **I love what I do - code and help people learn coding**
