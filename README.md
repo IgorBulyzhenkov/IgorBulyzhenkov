@@ -6,8 +6,8 @@
       - 🔭 I'm currently learning <a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="125px"></a>
 </p>
 <p align="left">- 🌱 And I also learn new technologies </p>
-<p align="left">- 📫 How to reach me: **bulyzhenkov.igor@gmail.com** </p>
-<p align="left">- ⚡ Fun fact: **I love what I do - code and help people learn coding** </p>
+<p align="left">- 📫 How to reach me:  bulyzhenkov.igor@gmail.com </p>
+<p align="left">- ⚡ Fun fact: I love what I do - code and help people learn coding </p>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IgorBulyzhenkov&theme=nord_bright)
 
