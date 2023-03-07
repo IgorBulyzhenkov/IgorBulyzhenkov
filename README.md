@@ -7,7 +7,7 @@
 </p>
 <p align="left">- 🌱 And I also learn new technologies </p>
 <p align="left">- 📫 How to reach me:  bulyzhenkov.igor@gmail.com </p>
-<p align="left">- ⚡ Fun fact: I love what I do - code and help people learn coding </p>
+<p align="left">- ⚡ Fun fact: I love what I do - learn code and coding </p>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IgorBulyzhenkov&theme=nord_bright)
 
