@@ -35,7 +35,7 @@
 
 <img align="left" alt="NodeJs" width="32px" src="https://icon-library.com/images/node-js-icon/node-js-icon-8.jpg" />
 
-<img align="left" alt="PHP" width="50px" src="https://blog.cleverelephant.ca/images/2017/phppg.png" />
+<img align="left" alt="PHP" width="50px" src="hhttps://e7.pngegg.com/pngimages/809/483/png-clipart-php-php-thumbnail.png" />
 
 <img align="left" alt="Laravel" src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="125px">
 
