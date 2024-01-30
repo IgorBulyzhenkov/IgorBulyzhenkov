@@ -27,10 +27,16 @@
 
 <img align="left" alt="Sass" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 
-
 <img align="left" alt="Git" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 
 <img align="left" alt="GitHub" width="32px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
 <img align="left" alt="Visual Studio Code" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+
 <img alt="NodeJs" width="32px" src="https://icon-library.com/images/node-js-icon/node-js-icon-8.jpg" />
+
+<img alt="PHP" width="32px" src="https://blog.cleverelephant.ca/images/2017/phppg.png" />
+
+<img alt="Laravel" src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="125px">
+
+<img alt="Modx" width="32px" src="https://lh5.googleusercontent.com/proxy/xqo8H8y2zzkXCedEUqtDpLV3Rqdptx6wa3krZr__McQq6dWg_a0uhoGDj_H1StV4uqR1ef-HkDO2Yq00XJg9Wbs9nAbObT_6I-1BvXpGkyRacrSrByP7IKB_ldReKF9j-7BLJ9fsa0tKrddqmsI-6t0Cuyg" />
