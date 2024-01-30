@@ -41,4 +41,4 @@
 
 <img align="left" alt="Modx" width="40px" src="https://lh5.googleusercontent.com/proxy/xqo8H8y2zzkXCedEUqtDpLV3Rqdptx6wa3krZr__McQq6dWg_a0uhoGDj_H1StV4uqR1ef-HkDO2Yq00XJg9Wbs9nAbObT_6I-1BvXpGkyRacrSrByP7IKB_ldReKF9j-7BLJ9fsa0tKrddqmsI-6t0Cuyg" />
 
-<img align="left" alt="PHP" width="40px" src="https://upload.wikimedia.org/wikipedia/ru/d/d3/Mysql.png" />
+<img align="left" alt="PHP" width="50px" src="https://upload.wikimedia.org/wikipedia/ru/d/d3/Mysql.png" />
